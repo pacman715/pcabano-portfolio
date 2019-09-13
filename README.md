@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/pacman715/pcabano-portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Paul Cabano and I am a 47 year old father of three. I have two daughters Samantha (26) and Jordan (24) both of whom have attained their Bachelor degrees. My son, Cody, is 21 and is exploring different avenues for his future.  The most important thing to me is to lead by example and to be a role model that my children can be proud of.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I currently work for Sutter Health as a Sr. HR Reporting Analyst.  In this position, I use SQL to query multiple databases for the purpose of providing data analytics for leadership as well as providing employee information to Human Resources for various purposes.
 
-### Markdown
+I have been involved in the martial arts, specifically Kyokushin karate and Aiki jiu jitsu, for 39 years. I also worked in the beer industry for eight years which fueled my passion for the beer community. I have also recently developed an interest and passion for BBQing and have won multiple competitions.  My dream is to own my own tap house and BBQ restaurant.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
 
-```markdown
-Syntax highlighted code block
+After many years of community college and three changes in my major, Computer Science then Psychology and finally Business, I had to drop out during my divorce in 2010. My supervisor strongly encouraged me to persue my degree as further advancement within the company would be extremely difficult without one.  Under this advice, I went back to school and earned my BA in Human Resources Management and graduated Suma Cum Laude from Ashford University.
 
-# Header 1
-## Header 2
-### Header 3
+## Technical Background
 
-- Bulleted
-- List
+I originally started college in 1992 at Heald Institute of Technology.  Upon receiving my certificate in electronics technology, I was able to obtain a job with The Money Store as a Quality Assurance Analyst.  During my employment I was afforded several opportunities and learned several different programming laguages as well as Crystal Reports.  After working at The Money Store, I held positions as a business analyst, IT technician, IT Director, programmer analyst, IT manager, and my current position.
 
-1. Numbered
-2. List
+## Why Python?
 
-**Bold** and _Italic_ and `Code` text
+My current employer has purchased a new ERP which has increased the likelihood that my position will be eliminated.  Because Python is a very widely used programming language, I chose to take this class to make me more marketable.
 
-[Link](url) and ![Image](src)
-```
+## Projects
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pacman715/pcabano-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Fundamentals of Programming in Python
+2. Internet of Things (IoT)
+3. Secure Scripting
+4. Data Analytics
+5. Python Hackathon
