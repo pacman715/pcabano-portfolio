@@ -14,13 +14,13 @@ After many years of community college and three changes in my major, Computer Sc
 
 ## Technical Background
 
-I originally started college in 1992 at Heald Institute of Technology.  Upon receiving my certificate in electronics technology, I was able to obtain a job with The Money Store as a Quality Assurance Analyst.  During my employment I was afforded several opportunities and learned several different programming laguages as well as Crystal Reports.  After working at The Money Store, I held positions as 
-  * Business Analyst
-  * IT Technician
-  * IT Director
-  * Programmer Analyst
-  * IT Manager
-  * BI Devleoper
+I originally started college in 1992 at Heald Institute of Technology.  Upon receiving my certificate in electronics technology, I was able to obtain a job with The Money Store as a Quality Assurance Analyst.  During my employment I was afforded several opportunities and learned several different programming laguages as well as Crystal Reports.  After working at The Money Store, I held the following technical positions:
+  * *Business Analyst*
+  * *IT Technician*
+  * *IT Director*
+  * *Programmer Analyst*
+  * *IT Manager*
+  * *BI Devleoper*
 
 ## Why Python?
 
