@@ -21,8 +21,8 @@ My current employer has purchased a new ERP which has increased the likelihood t
 
 ## Projects
 
-1. Fundamentals of Programming in Python
-2. Internet of Things (IoT)
-3. Secure Scripting
-4. Data Analytics
-5. Python Hackathon
+##### 1. [Fundamentals of Programming in Python](https://pcabano.github.io/python_fundamentals/)
+##### 2. [Internet of Things](https://pcabano.github.io/IoT/)
+##### 3. [Secure Scripting](https://pcabano.github.io/secure_scripting/)
+##### 4. [Data Analytics](https://pcabano.github.io/data_analytics/)
+##### 5. [Python Hackathon](https://pcabano.github.io/python_hackathon/)
