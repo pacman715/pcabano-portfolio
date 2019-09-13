@@ -1,5 +1,6 @@
-## Introduction
 <img src="SamGrad.JPG" align="left" style="margin: 10px"> 
+
+## Introduction
 
 My name is Paul Cabano and I am a 47 year old father of three. I have two daughters Samantha (26) and Jordan (24) both of whom have attained their Bachelor degrees. My son, Cody, is 21 and is exploring different avenues for his future.  The most important thing to me is to lead by example and to be a role model that my children can be proud of.
 
