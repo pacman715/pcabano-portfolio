@@ -30,6 +30,4 @@ My current employer has purchased a new ERP which has increased the likelihood t
 
 ##### 1. [Fundamentals of Programming in Python](https://pacman715.github.io/python_fundamentals/)
 ##### 2. [Internet of Things](https://pacman715.github.io/IoT/)
-##### 3. [Secure Scripting](https://pcabano.github.io/secure_scripting/)
-##### 4. [Data Analytics](https://pcabano.github.io/data_analytics/)
-##### 5. [Python Hackathon](https://pcabano.github.io/python_hackathon/)
+##### 3. [Python Hackathon](https://pacman715.github.io/python_hackathon/)
